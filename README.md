@@ -7,8 +7,8 @@
 Watch the DeepDive Tutorial on YouTube:
 
 <p align="center">
-    <a href="https://youtu.be/DVOW7b_hUm8">
-        <img src="https://img.youtube.com/vi/DVOW7b_hUm8/0.jpg" alt="Deep Research Implementation Tutorial" width="560" height="315">
+    <a href="https://youtu.be/V8I6mseJcEc">
+        <img src="https://img.youtube.com/vi/V8I6mseJcEc/0.jpg" alt="Deep Research Implementation Tutorial" width="560" height="315">
     </a>
 </p>
 
